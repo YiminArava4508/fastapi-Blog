@@ -2,13 +2,12 @@
 The website used for saving meal prep recipes from users
 
 ## Frontend
-
-React
+- React
 
 ## Backend 
-FastAPI 
-Postgresql
-JWT authentication
+- FastAPI 
+- Postgresql
+- JWT authentication
 
-# To replicate
+## To replicate
 .env file needed
