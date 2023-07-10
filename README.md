@@ -1,6 +1,5 @@
 # Meal Prep Blog Site
-
-Website used for saving meal prep recipes from users
+The website used for saving meal prep recipes from users
 
 ## Frontend
 
@@ -10,3 +9,6 @@ React
 FastAPI 
 Postgresql
 JWT authentication
+
+# To replicate
+.env file needed
