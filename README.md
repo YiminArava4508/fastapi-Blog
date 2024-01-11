@@ -1,4 +1,4 @@
-# Meal Prep Blog Site
+# Blog Site
 The website used for saving meal prep recipes from users
 
 ## Frontend
